@@ -20,6 +20,22 @@ class MyFriendsFragment : Fragment() {
             "samsul@stimata.ac.id", "08123456789", "Bogor"))
         listTeman.add(MyFriend("Dian Wahyuningsih","Perempuan",
             "dian@stimata.ac.id","08987654321","Sidoarjo" ))
+        listTeman.add(MyFriend("Diana","Perempuan",
+            "diana@stimata.ac.id","08987654321","Surabaya" ))
+        listTeman.add(MyFriend("widhi","Laki-laki",
+            "widhi@stimata.ac.id","08987654321","lawang" ))
+        listTeman.add(MyFriend("Susi","Perempuan",
+            "susi@stimata.ac.id","08987654321","Banyuwangi" ))
+        listTeman.add(MyFriend("Irma","Perempuan",
+            "irma@stimata.ac.id","08987654321","Banjarmasin" ))
+        listTeman.add(MyFriend("Rima","Perempuan",
+            "rima@stimata.ac.id","08987654321","Palembang" ))
+        listTeman.add(MyFriend("Mega","Perempuan",
+            "mega@stimata.ac.id","08987654321","Lampung" ))
+        listTeman.add(MyFriend("Panji","Laki-laki",
+            "panji@stimata.ac.id","08987654321","Bengkulu" ))
+        listTeman.add(MyFriend("Bagas","Laki-laki",
+            "bagas@stimata.ac.id","08987654321","Mojokerto" ))
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
